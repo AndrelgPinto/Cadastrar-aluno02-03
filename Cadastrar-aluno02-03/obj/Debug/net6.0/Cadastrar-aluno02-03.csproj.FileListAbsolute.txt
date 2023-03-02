@@ -1,0 +1,15 @@
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\bin\Debug\net6.0\Cadastrar-aluno02-03.exe
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\bin\Debug\net6.0\Cadastrar-aluno02-03.deps.json
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\bin\Debug\net6.0\Cadastrar-aluno02-03.runtimeconfig.json
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\bin\Debug\net6.0\Cadastrar-aluno02-03.dll
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\bin\Debug\net6.0\ref\Cadastrar-aluno02-03.dll
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\bin\Debug\net6.0\Cadastrar-aluno02-03.pdb
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\obj\Debug\net6.0\Cadastrar-aluno02-03.csproj.AssemblyReference.cache
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\obj\Debug\net6.0\Cadastrar-aluno02-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\obj\Debug\net6.0\Cadastrar-aluno02-03.AssemblyInfoInputs.cache
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\obj\Debug\net6.0\Cadastrar-aluno02-03.AssemblyInfo.cs
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\obj\Debug\net6.0\Cadastrar-aluno02-03.csproj.CoreCompileInputs.cache
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\obj\Debug\net6.0\Cadastrar-aluno02-03.dll
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\obj\Debug\net6.0\ref\Cadastrar-aluno02-03.dll
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\obj\Debug\net6.0\Cadastrar-aluno02-03.pdb
+C:\Users\andre.lgpinto\source\repos\Cadastrar-aluno02-03\Cadastrar-aluno02-03\obj\Debug\net6.0\Cadastrar-aluno02-03.genruntimeconfig.cache

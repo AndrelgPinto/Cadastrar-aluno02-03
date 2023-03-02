@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cadastrar-aluno02-03/1.0.0": {
+        "runtime": {
+          "Cadastrar-aluno02-03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cadastrar-aluno02-03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
